@@ -14,6 +14,12 @@ You have a list of dictionaries called users, each dictionary must have keys nam
 
 Your task is to write a function get_birthdays_per_week, which takes a list of users as input and prints to the console (using print) a list of users who need to be greeted for their birthdays next week. Users whose birthday falls on weekends should be greeted on Monday. The function displays users with birthdays for the week ahead from the current day. The week starts on Monday.
 
+Evaluation Criteria
+
+The function get_birthdays_per_week outputs the names of the celebrants in the following format:
+Monday: Bill Gates, Jill Valentine
+Friday: Kim Kardashian, Jan Koum
+
 Task 2: Write a console assistant bot that will recognize commands entered from the keyboard and respond accordingly to the entered command.
 
 THE ASSISTANT BOT SHOULD BE A PROTOTYPE FOR THE APPLICATION ASSISTANT WE WILL DEVELOP IN THE FOLLOWING HOME TASKS. THE ASSISTANT APPLICATION IN THE FIRST APPROACH SHOULD BE ABLE TO WORK WITH THE CONTACT BOOK AND CALENDAR.
